@@ -1,0 +1,22 @@
+[
+    {
+        "year": 2022,
+        "diploma": "BES WebDeveloper",
+        "establish": "E.P.S.E."
+    },
+    {
+        "year": 2008,
+        "diploma": "CESI",
+        "establish": "IFAPME"
+    },
+    {
+        "year": 2005,
+        "diploma": null,
+        "establish": "Les Ursulines"
+    },
+    {
+        "year": 2004,
+        "diploma": null,
+        "establish": "Saint-Luc Mons"
+    }
+]

@@ -4,5 +4,8 @@
     "dateNaissance": "13/09/1991",
     "email": "nandobiaccalli@gmail.com",
     "adresse": "Rue Allende 38, 7021 Havré",
-    "tel": "0479872448"
+    "tel": "0479872448",
+    "hobbies": [
+        "video games", "guitar", "watch TV"
+    ]
 }
