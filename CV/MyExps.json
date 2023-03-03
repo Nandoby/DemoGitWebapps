@@ -1,0 +1,20 @@
+[
+    {
+        "jobTitle": "webdeveloper",
+        "entreprise": "MCP",
+        "start_date": 2022,
+        "end_date": "deux semaines plus tard.."
+    },
+    {
+        "jobTitle": "gérant d'entreprise",
+        "entreprise": "Biaccalli Ferdinando",
+        "start_date": 2014,
+        "end_date": 2020
+    },
+    {
+        "jobTitle": "Maçon",
+        "entreprise": "Willobati",
+        "start_date": 2008,
+        "end_date": 2014
+    }
+]
